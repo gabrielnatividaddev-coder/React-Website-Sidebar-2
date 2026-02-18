@@ -21,6 +21,9 @@
     border-bottom: 1px solid #dee2e6;
     gap: 8px;
 }
+.leftside {
+    color:white;
+}
 .sevenitems {
     display: flex;
     flex-direction: column;
@@ -28,7 +31,7 @@
 }
 .item {
     text-decoration: none;
-    color: #495057;
+    color: white;
     cursor: pointer;
     padding: 10px;
     font-weight: 500;
