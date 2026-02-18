@@ -31,8 +31,8 @@ class Sidebar extends React.Component {
             </div>
             <div className="bottom">
               <div className="bottomitems">
-            <Link to='/link4' className='item'><div className="icon"><IconSettings stroke={1.5} /><span>Settings</span></div></Link>
-            <Link to='/link4' className='item'><div className="icon"><IconLayout2 stroke={1.5} /><span>Logout</span></div></Link>
+            <Link className='item'><div className="icon"><IconSettings stroke={1.5} /><span>Settings</span></div></Link>
+            <Link className='item'><div className="icon"><IconLayout2 stroke={1.5} /><span>Logout</span></div></Link>
             </div>
             </div>
           </div>
