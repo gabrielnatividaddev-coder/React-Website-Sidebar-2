@@ -7,7 +7,7 @@ class About extends React.Component {
     return <div className='outerdiv'>
       <div className='aboutdiv'>
         <p className='aboutinner'>
-          Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC"Sed ut perspiciatis unde omni </p>
+          Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC"Sed ut perspiciatis unde omni Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC"Sed ut perspiciatis unde omni</p>
       </div></div> ;
   }
 }

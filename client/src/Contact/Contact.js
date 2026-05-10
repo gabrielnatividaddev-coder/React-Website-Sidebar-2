@@ -9,7 +9,10 @@ class Contact extends React.Component {
               <img className='aboutpic' src={profile}></img>
               <p>
                 Lorem Ipsum
-                "Neque porro quisquam est qui dolorem ipsum               </p>
+                "Neque porro quisquam est qui dolorem ipsum    Lorem Ipsum
+                "Neque porro quisquam est qui dolorem ipsum  Lorem Ipsum
+                "Neque porro quisquam est qui dolorem ipsum  Lorem Ipsum
+                "Neque porro quisquam est qui dolorem ipsum             </p>
             </div>  
       </div> 
       ;
